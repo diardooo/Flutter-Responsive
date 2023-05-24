@@ -1,16 +1,12 @@
 # responsive_flutter
 
-A new Flutter project.
+Responsive App with Flutter
 
-## Getting Started
+1. Desktop View <br >
+![Screenshot 2023-05-24 231500](https://github.com/diardooo/Flutter-Responsive/assets/49031124/67bc1502-eca5-4cdb-a7c9-9f02b887f631) <br >
 
-This project is a starting point for a Flutter application.
+2. Tablet View <br >
+![asdsa](https://github.com/diardooo/Flutter-Responsive/assets/49031124/950317f8-924d-48b8-87ba-4a1e7058d80b) <br >
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Mobile View <br >
+![as](https://github.com/diardooo/Flutter-Responsive/assets/49031124/ae5751a6-035a-4bd3-ac46-4373d86627e4) <br >
